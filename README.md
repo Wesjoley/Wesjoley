@@ -29,15 +29,11 @@ Tenho 22 anos e estou iniciando minha jornada na área de **Dados**. Busco trans
 
 ---
 
-## 📈 **Estatísticas do GitHub**
-
+## 📈 Estatísticas do GitHub
 <div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesjoley&show_icons=true&theme=radical&count_private=true" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesjoley&layout=compact&langs_count=7&theme=radical"/>
-
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wesjoley&show_icons=true&theme=radical&count_private=true" alt="Estatísticas de Wesjoley" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wesjoley&layout=compact&langs_count=7&theme=radical" alt="Linguagens mais usadas" />
+</div>>
 
 ---
 
